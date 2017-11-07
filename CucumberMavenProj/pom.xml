@@ -3,14 +3,7 @@
   <groupId>CucumberMaven</groupId>
   <artifactId>CucumberMavenProj</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <repositories>
- <repository>
- <id>SmartBear Sweden Repository</id>
- <url>http://smartbearsoftware.com/repository/maven2/</url>
-   
- 
- </repository>
- </repositories>
+  
   <dependencies>
         <dependency>
             <groupId>info.cukes</groupId>
@@ -31,19 +24,8 @@
             <version>2.45.0</version>
         </dependency>
 
-    
+  
 
- <dependency>
- <groupId>eclipse</groupId>
-  <artifactId>jdtcore</artifactId>
-  <version>3.2.0.v_658</version>
-
-  </dependency>
-  <dependency>
-  <version>4.0.2-SNAPSHOT</version>
-<groupId>eviware</groupId>
-<artifactId>maven-soapui-plugin</artifactId>
-  </dependency>
-    </dependencies>
+   </dependencies>
  
 </project>
